@@ -1,0 +1,1 @@
+# CGPA_vs_Salary_Prediction_LR
